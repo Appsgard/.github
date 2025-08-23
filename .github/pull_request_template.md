@@ -23,7 +23,7 @@ What kind of change does this PR introduce?
 
 <!-- Bugs and features must be linked to an issue. -->
 
-Issue Number: #N/A
+Fixes #N/A
 
 ## Does this PR introduce a breaking change?
 
